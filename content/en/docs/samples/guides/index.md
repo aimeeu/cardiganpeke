@@ -6,6 +6,9 @@ linkTitle: Guides
 
 ## Guides overview
 
+- Diataxis: How-To Guides
+- DITA: Task
+
 These samples are from Armory's Continuous Deployment-as-a-Service product. Harness acquired Armory on 22 December 2023.
 
 Original public repo: https://www.github.com/armory/docs-cdaas/
