@@ -70,15 +70,18 @@ description = "Aimee Ukasick's Portfolio and Blog"
 
 [[menu.main]]
   name = "Contact"
-  weight = 3
-  url = "/docs/about/personal/"
+  weight = 2
+  url = "/docs/"
 
 [[menu.main]]
-  name = "Dogs"
+  name = "LinkedIn"
   weight = 3
-  url = "/docs/about/dogs/"
+  url = "https://www.linkedin.com/in/aimee-ukasick/"
 
-
+[[menu.main]]
+  name = "GitHub"
+  weight = 4
+  url = "https://www.github.com/aimeeu/"
 
 
 [markup]
@@ -188,7 +191,7 @@ enable = false
 [[params.links.developer]]
   name = "LinkedIn"
   url = "https://www.linkedin.com/in/aimee-ukasick/"
-  icon = "fa fa-linkedin"
+  icon = "fab fa-linkedin-in"
   desc = "LinkedIn"
 
 # hugo module configuration

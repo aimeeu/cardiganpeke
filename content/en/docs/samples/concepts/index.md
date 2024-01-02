@@ -8,6 +8,8 @@ linkTitle: Explanation
 - Diataxis: Explanation
 - DITA: Concept
 
+{{< readfile file="/includes/caveat.md" >}}
+
 ## AWS Lambda deployment overview
 
 {{< figure src="deployment-lambda-overview.png" width="80%" height="80%" >}}
