@@ -1,8 +1,35 @@
 ---
-title: About Aimee
-linkTitle: About Aimee
+title: Contact Aimee
+linkTitle: Contact
+description: >
+  My contact information and a little bit about me.
 ---
 
-## My photo
+## Contact information
 
-{{< figure src="AimeeCloudNative.jpg" width="50%" height="50%" >}}
+{{< readfile file="/includes/contact-info.md" >}}
+
+## Countries I have visited
+
+* Australia
+* Burma
+* Cambodia
+* Canada
+* China
+* England
+* Hong Kong
+* Laos
+* Scotland
+* Taiwan - I lived here from 1990-1994 while I taught English as a Second Language.
+* Thailand
+
+## Languages I have studied
+
+* Chinese
+* French
+* German
+* Spanish
+
+## Hobbies
+
+I compete with [my dogs]({{< ref "/docs/about/dogs/index.md" >}}) in Herding, Nosework, Fast CAT, and Rally.  I also enjoy hiking in Wisconsin's forests and paddling Wisconsin's waterways. 

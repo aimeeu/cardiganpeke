@@ -64,24 +64,24 @@ description = "Aimee Ukasick's Portfolio and Blog"
 
  
 [[menu.main]]
-  name = "Experience"
-  weight = 1
-  url = "/docs/experience/"
-
-[[menu.main]]
-  name = "Personal"
-  weight = 3
-  url = "/docs/about/personal/"
-
-[[menu.main]]
-  name = "Dogs"
-  weight = 3
-  url = "/docs/about/dogs/"
-
-[[menu.main]]
-  name = "Blog"
+  name = "Writing Samples"
   weight = 2
-  url = "/blog/"
+  url = "/docs/samples/"
+
+[[menu.main]]
+  name = "Contact"
+  weight = 3
+  url = "/docs/"
+
+[[menu.main]]
+  name = "LinkedIn"
+  weight = 4
+  url = "https://www.linkedin.com/in/aimee-ukasick/"
+
+[[menu.main]]
+  name = "GitHub"
+  weight = 5
+  url = "https://www.github.com/aimeeu/"
 
 
 [markup]
@@ -100,11 +100,11 @@ description = "Aimee Ukasick's Portfolio and Blog"
 
 # Comment out if you don't want the "print entire section" link enabled.
 [outputs]
-section = ["HTML", "print", "RSS"]
+#section = ["HTML", "print", "RSS"]
 
 [params]
 copyright = "Aimee Ukasick"
-privacy_policy = "https://policies.google.com/privacy"
+#privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -181,21 +181,7 @@ enable = false
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
-[[params.links.user]]
-  name = "User mailing list"
-  url = "https://example.org/mail"
-  icon = "fa fa-envelope"
-  desc = "Discussion and help from your fellow users"
-[[params.links.user]]
-  name ="Twitter"
-  url = "https://example.org/twitter"
-  icon = "fab fa-twitter"
-  desc = "Follow us on Twitter to get the latest news!"
-[[params.links.user]]
-  name = "Stack Overflow"
-  url = "https://example.org/stack"
-  icon = "fab fa-stack-overflow"
-  desc = "Practical questions and curated answers"
+
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
@@ -203,15 +189,10 @@ enable = false
   icon = "fab fa-github"
   desc = "Aimee's GitHub"
 [[params.links.developer]]
-  name = "Slack"
-  url = "https://example.org/slack"
-  icon = "fab fa-slack"
-  desc = "Chat with other project developers"
-[[params.links.developer]]
-  name = "Developer mailing list"
-  url = "https://example.org/mail"
-  icon = "fa fa-envelope"
-  desc = "Discuss development issues around the project"
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/aimee-ukasick/"
+  icon = "fab fa-linkedin-in"
+  desc = "LinkedIn"
 
 # hugo module configuration
 

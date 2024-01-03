@@ -1,18 +1,17 @@
 ---
-title: Guide Samples
-linkTitle: Guides
+title: How-To Guide Samples
+linkTitle: How-To Guides
+description: >
+  This page shows samples of how-to guides that I wrote while working for Armory.
 ---
 
 
 ## Guides overview
 
-These samples are from Armory's Continuous Deployment-as-a-Service product. Harness acquired Armory on 22 December 2023.
+- Diataxis: How-To Guides
+- DITA: Task
 
-Original public repo: https://www.github.com/armory/docs-cdaas/
-
-Original public site: https://developer.armory.io/docs/
-
-I used Snagit's scrolling feature to capture the screenshots. The main body content is correct, but you do see duplicate left and right menus due to the scrolling capture.
+{{< readfile file="/includes/caveat.md" >}}
 
 ## Configure a temporary preview link to a deployed service
 
