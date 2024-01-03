@@ -1,5 +1,7 @@
 ---
 title: My Dogs
+description: >
+  Meet Bond and Percy, my Cardigan Welsh Corgis.
 ---
 
 ## Why I compete with my dogs

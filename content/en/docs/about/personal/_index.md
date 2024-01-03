@@ -1,6 +1,8 @@
 ---
 title: Contact Aimee
 linkTitle: Contact
+description: >
+  My contact information and a little bit about me.
 ---
 
 ## Contact information
@@ -27,3 +29,7 @@ linkTitle: Contact
 * French
 * German
 * Spanish
+
+## Hobbies
+
+I compete with [my dogs]({{< ref "/docs/about/dogs/index.md" >}}) in Herding, Nosework, Fast CAT, and Rally.  I also enjoy hiking in Wisconsin's forests and paddling Wisconsin's waterways. 
