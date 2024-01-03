@@ -69,18 +69,23 @@ description = "Aimee Ukasick's Portfolio and Blog"
   url = "/docs/experience/"
 
 [[menu.main]]
-  name = "Contact"
+  name = "Samples"
   weight = 2
+  url = "/docs/samples/"
+
+[[menu.main]]
+  name = "Contact"
+  weight = 3
   url = "/docs/"
 
 [[menu.main]]
   name = "LinkedIn"
-  weight = 3
+  weight = 4
   url = "https://www.linkedin.com/in/aimee-ukasick/"
 
 [[menu.main]]
   name = "GitHub"
-  weight = 4
+  weight = 5
   url = "https://www.github.com/aimeeu/"
 
 
