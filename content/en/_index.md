@@ -69,10 +69,10 @@ Developer-Focused Documentation<br>
 
 
 {{% blocks/feature icon="fa-solid fa-code" title="Languages" %}}
-Markdown | Restructured Text | HTML <br>
+Markdown | reStructured Text | HTML <br>
 YAML | JSON<br>
 Python | Java | JavaScript<br>
-C/C++ | SQL<br>
+Go | C/C++ | SQL<br>
 
 <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
