@@ -1,6 +1,6 @@
 ---
-title: Guide Samples
-linkTitle: Guides
+title: How-To Guide Samples
+linkTitle: How-To Guides
 description: >
   This page shows samples of how-to guides that I wrote while working for Armory.
 ---

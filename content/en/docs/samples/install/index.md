@@ -1,6 +1,6 @@
 ---
 title: Product Installation Samples
-linkTitle: Install Guides
+linkTitle: Product Install Guides
 description: >
   This page shows samples of installation guides that I wrote while working for Armory.
 ---
