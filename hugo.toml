@@ -64,12 +64,7 @@ description = "Aimee Ukasick's Portfolio and Blog"
 
  
 [[menu.main]]
-  name = "Experience"
-  weight = 1
-  url = "/docs/experience/"
-
-[[menu.main]]
-  name = "Samples"
+  name = "Writing Samples"
   weight = 2
   url = "/docs/samples/"
 
