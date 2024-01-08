@@ -27,6 +27,4 @@ For this guide, I learned how to configure and deploy Istio to my Kubernetes clu
 
 ## Use Armory's GitHub Action to deploy your app using CD-as-a-Service
 
-
-
 {{< figure src="use-github-action.png"  width="80%" height="80%" >}}
