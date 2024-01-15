@@ -20,6 +20,7 @@ description: >
 * Hong Kong
 * Laos
 * Scotland
+* Spain (Barcelona for an OpenStack conference)
 * Taiwan - I lived here from 1990-1994 while I taught English as a Second Language.
 * Thailand
 
