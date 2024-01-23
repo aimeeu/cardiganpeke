@@ -1,5 +1,5 @@
 * **Location:** Wisconsin, USA
-* **Timezone**: US Central time, UTC -6 ([World Clock](https://www.timeanddate.com/worldclock/))
+* **Timezone**: US Central time, UTC -6 (See the [World Clock](https://www.timeanddate.com/worldclock/))
 * **Email:** {{< cloakmail address="aimeeu.opensource@gmail.com" >}}
 * [LinkedIn](https://www.linkedin.com/in/aimee-ukasick/)
 * [GitHub](https://github.com/aimeeu/)

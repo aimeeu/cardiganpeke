@@ -9,7 +9,7 @@ title: Aimee Ukasick
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-I have over 20 years of experience creating and documenting commercial and open source software.
+I have many years of experience creating and documenting both commercial and open source software.
 
 {{% /blocks/lead %}}
 
@@ -57,7 +57,7 @@ As an Open Source Lead at AT&T Labs Research, I drove open source strategy and e
 {{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-solid fa-book" title="Technical Documentation" %}}
 Docs-as-Code<br>
-Diataxis Documentation Authoring Architecture<br>
+Diátaxis  Documentation Authoring Architecture<br>
 Darwin Information Typing Architecture<br>
 Developer-Focused Documentation<br>
 

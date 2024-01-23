@@ -22,7 +22,7 @@ Original public site: https://docs.armory.io/plugins/scale-agent/tasks/dynamic-a
 
 ## Feature-based approach
 
-After feedback from design partners, I changed the Armory Continuous Deployment-as-a-Service navigation to be a feature-based one that adheres to the [Diataxis](https://diataxis.fr/) model of explanation, how-to guides, tutorials, and reference... with a few modifications.
+After feedback from design partners, I changed the Armory Continuous Deployment-as-a-Service navigation to be a feature-based one that adheres to the [Diátaxis ](https://Diátaxis .fr/) model of explanation, how-to guides, tutorials, and reference... with a few modifications.
 
 Original public repo: https://www.github.com/armory/docs-cdaas/
 
