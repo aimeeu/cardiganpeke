@@ -6,7 +6,7 @@ description: >
 
 ## Why I compete with my dogs
 
-I have been training and showing dogs for a long time. I like the relationship that I build with my dogs when I train them for specific sports. Training is  a fun, intellectual challenge.
+I have been training and showing dogs for many years. I like the relationship that I build with my dogs when I train them for specific sports. Training is a fun, intellectual challenge.
 
 My dogs are also my companions. I take them hiking, canoeing, and camping.
 
@@ -42,9 +42,11 @@ Percy is my young Cardigan Welsh Corgi. He is learning nosework and herding.
 
 ## George
 
-**Registered Name**: Primah's Dragon Slayer
+**Registered Name**: Primah's Dragonslayer
 
-George is a Tibetan Spaniel, a rare breed that is not a spaniel. I plan to show George in conformation and train him for companion events.
+George is a Tibetan Spaniel, a rare and ancient breed that is not a spaniel. Tibentan monks bred Tibbies to be companions and watch dogs.
+
+I plan to show George in conformation and train him for companion events.
 
 {{< figure src="george.png" height="50%" width="50%" >}}
 

@@ -7,7 +7,7 @@ description: >
 
 ## Explanatory content overview
 
-- Diataxis: Explanation
+- Diátaxis: Explanation
 - DITA: Concept
 
 {{< readfile file="/includes/caveat.md" >}}

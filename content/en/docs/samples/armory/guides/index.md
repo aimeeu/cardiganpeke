@@ -8,7 +8,7 @@ description: >
 
 ## Guides overview
 
-- Diataxis: How-To Guides
+- Diátaxis : How-To Guides
 - DITA: Task
 
 {{< readfile file="/includes/caveat.md" >}}
