@@ -14,9 +14,9 @@ When Harness acquired Armory, I had been the sole tech writer for 20 months, so 
 ## Armory Continuous Deployment-as-a-Service (CDaaS)
 
 * [Website](https://developer.armory.io/)
-* Public GitHub [repo](https://github.com/armory/docs-cdaas)
+* Public GitHub [repo](https://github.com/armory/docs-cdaas) - view my [68 merged pull requests](https://github.com/armory/docs-cdaas/pulls?q=is%3Apr+is%3Amerged+author%3Aaimeeu+)
 
-I was the sole tech writer for this product and created the vast majority of the content with minimal input from the engineers. 
+I was the sole tech writer for this product and created the vast majority of the content with minimal input from the engineers.
 
 This site started out with a DITA-based navigation consisting of Get Started, Concepts, Guides, Reference, Tutorials, Troubleshooting, and Release Notes. However, CDaaS end users preferred feature-based navigation, so the Product Manager and I refactored to serve our readers. Each feature directory contains separate concept and task material. Tutorials remained in the Tutorials section.
 
@@ -25,21 +25,23 @@ This site started out with a DITA-based navigation consisting of Get Started, Co
 ## Armory Continuous Deployment Self-Hosted (CDSH)
 
 * [Website](https://docs.armory.io/continuous-deployment/)
-* Public GitHub [repo](https://github.com/armory/docs/)
+* Public GitHub [repo](https://github.com/armory/docs/) - view my [422 merged pull requests](https://github.com/armory/docs/pulls?q=is%3Apr+is%3Amerged+author%3Aaimeeu+)
 
 Engineers created much of the CDSH content in the three years before I arrived at Armory. After my arrival, the small docs team never had the bandwidth to update existing content to match the style and content guides I wrote, or to ensure content was up-to-date.
 
 I created product installation and plugin creation guides.
 
-## Spinnaker Plugins
+The original Armory documentation was in the `armory/documentation` [repo](https://github.com/armory/documentation). I was instrumental in porting the docs from Jekyll to Hugo, which substantially improved build times, page loading, and reader experience. I contributed [15 pull requests](https://github.com/armory/documentation/pulls?q=is%3Apr+is%3Amerged+author%3Aaimeeu+) to the old repo before the docs team and I ported the content. Significant contributions to the old repo included [Installing Spinnaker in GKE using Operator](https://github.com/armory/documentation/pull/853/files) and also the [Operator reference docs](https://github.com/armory/documentation/pull/820).
+
+### Spinnaker Plugins
+
+The Spinnaker Plugins content is in the Armory Continuous Deployment Self-Hosted repo.
 
 * [Website](https://docs.armory.io/plugins/)
 * Public GitHub [repo](https://github.com/armory/docs/)
 
 I created this top-level section and moved the existing plugin content from the main CDSH docs to this new section. We then added new plugin material.
 
-I created content based on user stories, technical design docs, and collaboration with engineers who were not native English speakers.
-
-Each plugin should have three installation options: Armory CDSH, Spinnaker – Operator, and Spinnaker- Halyard. I created the install YAML since the engineers often forgot to include it. Then I asked for technical reviews to ensure the content was correct.
+I created content based on user stories, technical design docs, and collaboration with engineers who were not native English speakers. Additionally, without help from the engineers, I created instructions for installing the plugin on Spinnaker using either the Spinnaker Operator or Halyard, plus instruction for installing into CDSH using the `spinnaker-kustomize-repo`. Then I asked for technical reviews to ensure the content was correct.
 
 The Scale Agent plugin content illustrates DITA-based navigation. The Product Manager and I had started planning for refactoring to a feature-based navigation when Armory was acquired.  
