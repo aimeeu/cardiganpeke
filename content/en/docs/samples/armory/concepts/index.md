@@ -12,6 +12,8 @@ description: >
 
 {{< readfile file="/includes/caveat.md" >}}
 
+>I created this content without a demo, first draft, or notes from the engineers.
+
 ## AWS Lambda deployment overview
 
 {{< figure src="deployment-lambda-overview.png" width="80%" height="80%" >}}
