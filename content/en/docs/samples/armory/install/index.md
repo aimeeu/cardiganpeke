@@ -29,13 +29,19 @@ I used Snagit’s scrolling feature to capture the screenshots. The main body co
 
 ### Install Operator and deploy Armory Continuous Deployment quickstart
 
+>I created this guide without a demo, first draft, or notes from the engineers.
+
 {{< figure src="cdsh-operator-quickstart.png" width="80%" height="80%" >}}
 
 ### Install from the AWS Marketplace
 
+>I created this guide with notes from a sales engineer.
+
 {{< figure src="install-from-aws-marketplace.png" width="80%" height="80%" >}}
 
 ### Air-gapped overview and installation
+
+>I created this guide with notes from a sales engineer.
 
 {{< figure src="air-gapped-overview.png" width="80%" height="80%" >}}
 
@@ -47,13 +53,26 @@ I used Snagit’s scrolling feature to capture the screenshots. The main body co
 
 This example shows how to install the Scale Agent in Spinnaker using the Spinnaker Operator.
 
+>A sales engineer provided notes and the Kubernetes manifests.
+
 {{< figure src="scale-agent-spinnaker.png" width="80%" height="80%" >}}
 
 {{< figure src="configure-scale-agent.png" width="80%" height="80%" >}}
-
 
 ### GitHub Integration plugin
 
 This example shows how to install the GitHub Integration plugin in Spinnaker using Halyard.
 
+>I created this using notes from an engineer.
+
 {{< figure src="github-int-plugin-install-halyard.png" width="80%" height="80%" >}}
+
+## Install Armory CDSH in AWS EC2 using K3s
+
+I wrote this shortly after I started with Armory. It's based on notes I took while learning to use the product. One of the sales engineers provided instructions for configuring Lightweight Kubernetes to be publicly accessible when running on an EC2 instance.
+
+This page became outdated and is no longer in production.
+
+I should not have included instructions and screenshots for how to create an S3 bucket or IAM role. Instead, I should have stated what the user needs and then linked to relevant AWS docs.
+
+{{< figure src="operator-k3s-ec2.png" width="80%" height="80%" >}}

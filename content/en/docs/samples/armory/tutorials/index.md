@@ -9,6 +9,8 @@ description: >
 
 {{< readfile file="/includes/caveat.md" >}}
 
+>I created this content without a demo, first draft, or notes from the engineers.
+
 ## Get started AWS Lambda
 
 {{< figure src="get-started-lambda.png" width="80%" height="80%" >}}

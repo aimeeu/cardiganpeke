@@ -17,6 +17,8 @@ Original public site: https://docs.armory.io/contribute/
 
 I used Snagit's scrolling feature to capture the screenshots. The main body content is correct, but you do see duplicate left and right menus due to the scrolling capture.
 
+>I created this content based on my previous project experience.
+
 ## Style guide
 
 When creating content for Armory, we followed these style guides:
