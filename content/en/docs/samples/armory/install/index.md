@@ -39,14 +39,6 @@ I used Snagit’s scrolling feature to capture the screenshots. The main body co
 
 {{< figure src="install-from-aws-marketplace.png" width="80%" height="80%" >}}
 
-### Air-gapped overview and installation
-
->I created this guide with notes from a sales engineer.
-
-{{< figure src="air-gapped-overview.png" width="80%" height="80%" >}}
-
-{{< figure src="air-gapped-install.png" width="80%" height="80%" >}}
-
 ## Spinnaker plugins
 
 ### Scale Agent
@@ -55,7 +47,11 @@ This example shows how to install the Scale Agent in Spinnaker using the Spinnak
 
 >A sales engineer provided notes and the Kubernetes manifests.
 
+#### Scale Agent installation
+
 {{< figure src="scale-agent-spinnaker.png" width="80%" height="80%" >}}
+
+#### Scale Agent configuration
 
 {{< figure src="configure-scale-agent.png" width="80%" height="80%" >}}
 
@@ -73,6 +69,6 @@ I wrote this shortly after I started with Armory. It's based on notes I took whi
 
 This page became outdated and is no longer in production.
 
-I should not have included instructions and screenshots for how to create an S3 bucket or IAM role. Instead, I should have stated what the user needs and then linked to relevant AWS docs.
+Since the Armory docs team didn't have the resources to keep track of changes to third party products, I should not have included instructions and screenshots for how to create an S3 bucket or IAM role. Instead, I should have stated what the user needs and then linked to relevant AWS docs.
 
 {{< figure src="operator-k3s-ec2.png" width="80%" height="80%" >}}
