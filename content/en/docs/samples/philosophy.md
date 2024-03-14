@@ -11,7 +11,7 @@ I was a software developer as well as an end user, so I approach content creatio
 
 I strongly believe in separating long, explanatory content from guides and tutorials. GitLab calls this approach [CTRT](https://docs.gitlab.com/ee/development/documentation/topic_types/index.html) - Concept, Task, Reference, Troubleshooting - with other topic types including Tutorials and Get Started. 
 
-Daniele Procida's calls his similar approach _Diátaxis_ ([website](https://diataxis.fr/)). 
+Daniele Procida calls his similar approach _Diátaxis_ ([website](https://diataxis.fr/)). 
 
 **However, I do follow the content and style guides of the company I'm working for or the open source community to which I'm contributing.**
 
