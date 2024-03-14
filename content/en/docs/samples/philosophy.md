@@ -9,7 +9,11 @@ description: >
 
 I was a software developer as well as an end user, so I approach content creation from that viewpoint. I am as comfortable creating UML diagrams to illustrate concepts as I am creating tutorials and guides.
 
-I strongly believe in separating long, explanatory content from guides and tutorials. You can read more about that approach on Daniele Procida's Diátaxis [website](https://diataxis.fr/). **However, I do follow the content and style guides of the company I'm working for or the open source community to which I'm contributing.**
+I strongly believe in separating long, explanatory content from guides and tutorials. GitLab calls this approach [CTRT](https://docs.gitlab.com/ee/development/documentation/topic_types/index.html) - Concept, Task, Reference, Troubleshooting - with other topic types including Tutorials and Get Started. 
+
+Daniele Procida's calls his similar approach _Diátaxis_ ([website](https://diataxis.fr/)). 
+
+**However, I do follow the content and style guides of the company I'm working for or the open source community to which I'm contributing.**
 
 ## Diátaxis vs DITA et al
 
