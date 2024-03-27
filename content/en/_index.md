@@ -40,7 +40,7 @@ I worked for the Cloud Native Computing Foundation as an independent contractor.
 
 {{% blocks/feature icon="fa-solid fa-bell" title="Principal System Engineer - Open Source Lead" %}}
 Oct 2016 - March 2019<br>
-As an Open Source Lead at AT&T Labs Research, I drove open source strategy and engagement, working with open source communities in role from contributor to Project Team Lead.
+As an Open Source Lead at AT&T Labs Research, I drove open source strategy and engagement, working with open source communities in roles from contributor to Project Team Lead.
 
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://www.linkedin.com/in/aimee-ukasick/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
@@ -57,9 +57,10 @@ As an Open Source Lead at AT&T Labs Research, I drove open source strategy and e
 {{% blocks/section color="dark" type="row" %}}
 {{% blocks/feature icon="fa-solid fa-book" title="Technical Documentation" %}}
 Docs-as-Code<br>
+Developer-Focused Documentation<br>
 Diátaxis  Documentation Authoring Architecture<br>
 Darwin Information Typing Architecture<br>
-Developer-Focused Documentation<br>
+
 
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://www.linkedin.com/in/aimee-ukasick/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
