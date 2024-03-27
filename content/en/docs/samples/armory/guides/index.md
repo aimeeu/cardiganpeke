@@ -10,7 +10,6 @@ description: >
 
 - GitLab: Task
 - Diátaxis : How-to guide
-- DITA: Task
 
 {{< readfile file="/includes/caveat.md" >}}
 

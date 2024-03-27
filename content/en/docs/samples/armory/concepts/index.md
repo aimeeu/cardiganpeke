@@ -9,7 +9,6 @@ description: >
 
 - GitLab: Concept
 - Diátaxis: Explanation
-- DITA: Concept
 
 {{< readfile file="/includes/caveat.md" >}}
 
