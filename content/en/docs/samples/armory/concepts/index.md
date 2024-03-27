@@ -1,18 +1,19 @@
 ---
-title: Explanation Samples
-linkTitle: Explanation
+title: Concept samples
+linkTitle: Concept
 description: >
   This page shows samples of explanatory content that I wrote while working for Armory.
 ---
 
-## Explanatory content overview
+## Concept content overview
 
+- GitLab: Concept
 - Diátaxis: Explanation
 - DITA: Concept
 
 {{< readfile file="/includes/caveat.md" >}}
 
->I created this content without a demo, first draft, or notes from the engineers.
+>I created this content without a demo, first draft, or notes from the engineers. However, engineers did review the PR for technical accuracy.
 
 ## AWS Lambda deployment overview
 

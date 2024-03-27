@@ -7,18 +7,18 @@ description: >
 
 ## My time at Armory
 
-I started as a Technical Writer on December 2, 2019, joining Brian Le, who was hired in August of 2019. I ended as a Principal Technical Writer. I wore many hats and performed many duties beyond writing content.
+I started as a Technical Writer on December 2, 2019, joining Brian, who was hired in August of 2019. We reported to the VP of Product. The team grew to three tech writers and a manager. Eventually people moved on to other companies, and I was the sole tech writer for over a year. I was responsible for all aspects of Armory product documentation across all product lines. During my time at Armory, I wore many hats and performed many duties beyond writing content.
 
-When Harness acquired Armory, I had been the sole tech writer for 20 months, so I was responsible for all aspects of Armory product documentation across all product lines.
+When Harness acquired Armory in late 2023, Harness effectively retired Armory products, transitioning users to Harness' products.
 
 ## Armory Continuous Deployment-as-a-Service (CDaaS)
 
-* [Website](https://developer.armory.io/)
+* This public docs website is no longer available.
 * Public GitHub [repo](https://github.com/armory/docs-cdaas) - view my [68 merged pull requests](https://github.com/armory/docs-cdaas/pulls?q=is%3Apr+is%3Amerged+author%3Aaimeeu+)
 
-I was the sole tech writer for this product and created the vast majority of the content with minimal input from the engineers.
+I was the sole tech writer for this product and created the vast majority of the content with minimal input from the engineers. However, engineers and product managers did review my pull requests for technical accuracy.
 
-This site started out with a DITA-based navigation consisting of Get Started, Concepts, Guides, Reference, Tutorials, Troubleshooting, and Release Notes. However, CDaaS end users preferred feature-based navigation, so the Product Manager and I refactored to serve our readers. Each feature directory contains separate concept and task material. Tutorials remained in the Tutorials section.
+This site started out with a DITA-based navigation consisting of Get Started, Concepts, Guides, Reference, Tutorials, Troubleshooting, and Release Notes. However, CDaaS users preferred feature-based navigation, so the Product Manager and I refactored to serve our readers. Each feature directory contains separate concept and guide material. Tutorials remained in the Tutorials section.
 
 >The GitHub repo shows many contributors. That is not correct and is the result of how I created the repo. The CDaaS content was originally part of the Armory Continuous Deployment Self-Hosted `docs` repo. To create the CDaaS repo, I copied the `docs` repo and then [ripped out all but the CDaaS content](https://github.com/armory/docs-cdaas/pull/8) in the new `docs-cdaas` repo. The `docs-cdaas` repo therefore retained the commit history from the `docs` repo. In hindsight, I should have not created the `docs-repo` that way. Lesson learned.
 

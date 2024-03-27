@@ -1,6 +1,6 @@
 ---
-title: Content Organization
-linkTitle: Content Organization
+title: Content organization
+linkTitle: Content organization
 description: >
   This page shows examples of different approaches to organizing content.
 ---
@@ -22,11 +22,9 @@ Original public site: https://docs.armory.io/plugins/scale-agent/tasks/dynamic-a
 
 ## Feature-based approach
 
-After feedback from design partners, I changed the Armory Continuous Deployment-as-a-Service navigation to be a feature-based one that adheres to the [Diátaxis ](https://Diátaxis .fr/) model of explanation, how-to guides, tutorials, and reference... with a few modifications.
+After feedback from design partners, I changed the Armory Continuous Deployment-as-a-Service navigation to be a feature-based one. Each feature contains an overview and guides. In addition to root-level features, the site contained Get Started, Reference, Troubleshooting, and Tutorials top-level sections.
 
 Original public repo: https://www.github.com/armory/docs-cdaas/
-
-Original public site: https://developer.armory.io/docs/
 
 {{< figure src="cdaasLandingPage1.jpg" height="80%" width="80%" >}}
 
