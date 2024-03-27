@@ -18,7 +18,7 @@ When Harness acquired Armory in late 2023, Harness effectively retired Armory pr
 
 I was the sole tech writer for this product and created the vast majority of the content with minimal input from the engineers. However, engineers and product managers did review my pull requests for technical accuracy.
 
-This site started out with a DITA-based navigation consisting of Get Started, Concepts, Guides, Reference, Tutorials, Troubleshooting, and Release Notes. However, CDaaS users preferred feature-based navigation, so the Product Manager and I refactored to serve our readers. Each feature directory contained separate concept and guide material. Tutorials remained in the Tutorials section.
+This site started out with a navigation consisting of Get Started, Concepts, Guides, Reference, Tutorials, Troubleshooting, and Release Notes. However, CDaaS users preferred feature-based navigation, so the Product Manager and I refactored to serve our readers. Each feature directory contained separate concept and guide material. Tutorials remained in the Tutorials section.
 
 >The GitHub repo shows many contributors. That is not correct and is the result of how I created the repo. The CDaaS content was originally part of the Armory Continuous Deployment Self-Hosted `docs` repo. To create the CDaaS repo, I copied the `docs` repo and then [ripped out all but the CDaaS content](https://github.com/armory/docs-cdaas/pull/8) in the new `docs-cdaas` repo. The `docs-cdaas` repo therefore retained the commit history from the `docs` repo. In hindsight, I should have not created the `docs-repo` that way. Lesson learned.
 
