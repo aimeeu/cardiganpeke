@@ -1,15 +1,15 @@
 ---
-title: Contributor Guides
-linkTitle: Contributor Guides
+title: Contributor guides samples
+linkTitle: Contributor guides
 description: >
   This page shows samples of contributor guides: reviewer guidelines, approver guidelines, style guide, and content guide.
 ---
 
 ## Why I created these guides
 
-When I started at Armory, the docs team didn't have any contributor guides, so I created them. Armory's docs repo was public, so I wrote guides that were appropriate for the general public as well as Armory employees.
+When I started at Armory, the docs team didn't have any contributor guides. Armory's docs repo was public, so I wrote guides that were appropriate for the general public as well as Armory employees.
 
-My reference points were the Kubernetes contributor guides that I worked on in 2019 while employed by the Cloud Native Computing Foundation.
+My reference points were the Kubernetes contributor guides that I worked on in 2019 while employed by the Cloud Native Computing Foundation and the [Google developer documentation style guide](https://developers.google.com/style).
 
 Original public repo: https://github.com/armory/docs/tree/master/content/en/contribute
 

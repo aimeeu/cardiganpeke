@@ -1,5 +1,5 @@
 ---
-title: Authoring Philosophy
+title: Authoring philosophy
 weight: 1
 description: >
   This page contains my views on authoring technical content.
@@ -9,9 +9,16 @@ description: >
 
 I was a software developer as well as an end user, so I approach content creation from that viewpoint. I am as comfortable creating UML diagrams to illustrate concepts as I am creating tutorials and guides.
 
-I strongly believe in separating long, explanatory content from guides and tutorials. GitLab calls this approach [CTRT](https://docs.gitlab.com/ee/development/documentation/topic_types/index.html) - Concept, Task, Reference, Troubleshooting - with other topic types including Tutorials and Get Started. 
+I strongly believe in separating long, explanatory content from guides and tutorials. You can read more about this approach on GitLab's [Documentation topic types (CTRT) page](https://docs.gitlab.com/ee/development/documentation/topic_types/index.html) and the [Diátaxis website](https://diataxis.fr/). 
 
-Daniele Procida calls his similar approach _Diátaxis_ ([website](https://diataxis.fr/)). 
+| GitLab CTRT | Diátaxis |
+| ------------ | ----------- |
+| Concept      | Explanation |
+| Task    | How-to guide |
+| Reference    | Reference |
+| Troubleshooting    | (not defined) |
+| Tutorials    | Tutorials  |
+| Get started    |  (not defined)  |
 
 **However, I do follow the content and style guides of the company I'm working for or the open source community to which I'm contributing.**
 

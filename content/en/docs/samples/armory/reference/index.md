@@ -1,9 +1,14 @@
 ---
-title: Reference Samples
+title: Reference samples
 linkTitle: Reference
 description: >
   This page contains samples of reference material that I wrote while working for Armory.
 ---
+
+## Reference overview
+
+- GitLab: Reference
+- Diátaxis : Reference
 
 ## CLI
 
@@ -27,7 +32,7 @@ The Armory Continuous Deployment-as-a-Service reference material detailed the se
 
 The docs team worked with the engineers to add comments to the REST API code and then generate a Swagger JSON file upon product release. The docs then displayed the content using the Docsy theme's [swaggerui](https://www.docsy.dev/docs/adding-content/shortcodes/#swaggerui) tag. We ultimately decided not to include the REST API reference content in that format. Instead, I manually created the REST API reference with help from the engineers.
 
-Had Armory not been acquired, I would have investigated using a tool like [Stoplight](https://stoplight.io/) for API docs.
+Had Armory not been acquired, I would have investigated using a tools like [Stoplight](https://stoplight.io/) or [Redocly](https://redocly.com/) for API docs.
 
 Original public repo: https://github.com/armory/docs/tree/master/content/en/plugins
 

@@ -1,6 +1,6 @@
 ---
-title: How-To Guide Samples
-linkTitle: How-To Guides
+title: How-to guide samples
+linkTitle: How-to guides
 description: >
   This page shows samples of how-to guides that I wrote while working for Armory.
 ---
@@ -8,8 +8,8 @@ description: >
 
 ## Guides overview
 
-- Diátaxis : How-To Guides
-- DITA: Task
+- GitLab: Task
+- Diátaxis : How-to guide
 
 {{< readfile file="/includes/caveat.md" >}}
 

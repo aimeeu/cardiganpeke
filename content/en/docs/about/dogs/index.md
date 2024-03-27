@@ -1,5 +1,5 @@
 ---
-title: My Dogs
+title: My dogs
 description: >
   Meet my current dogs!
 ---
