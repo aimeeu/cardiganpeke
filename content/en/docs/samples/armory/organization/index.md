@@ -30,7 +30,7 @@ I had originally used the Concepts and Guides sections approach with the Armory 
 - **Situation**: After the docs site had been live for about a year, the software engineers developing the product expressed that they couldn’t find anything on the docs site. The customer feedback had been “great content” with no feedback on the navigation. The content was divided into Concepts, Guides, Troubleshooting, Tutorials, Reference. Concepts and Guides sections were organized by features.
 - **Task**: My task was to ask for feedback from design partners and possibly change site navigation.
 - **Action**: I talked to the design partners, who reiterated how good the content was. When asked specifically about site navigation, they admitted sometimes it took too many clicks to find what they were looking for. So I did the initial reorganization on paper and then met with the PM to finalize.
-- **Result**: The feedback from design partners was again positive. The PMs liked that our users could see all the features in a single glance.
+- **Result**: The feedback from design partners was again positive. They liked that concepts and guides were grouped by feature. The PMs liked that users could see all the features in a single glance.
 
 Original public repo: https://www.github.com/armory/docs-cdaas/
 
