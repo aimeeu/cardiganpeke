@@ -2,7 +2,7 @@
 title: Tech writing philosophy
 weight: 1
 description: >
-  This page contains my views on authoring technical content.
+  This page contains my views on authoring and reviewing technical content.
 ---
 
 ## Authoring philosophy
@@ -37,11 +37,11 @@ Here are a few presentations on Diátaxis:
 * [Daniele Procida - Always complete, never finished](https://www.youtube.com/watch?v=Wc7n7uIg4AM) (2021)
 * [What nobody tells you about documentation](https://www.youtube.com/watch?v=t4vKPhjcMZg)  (2017)
 
-Although I have never authored content using DITA tools, I have organized content using a DITA approach. What I found was that users preferred a feature-based navigation, so I put explanatory pages and guides within each feature folder but put Tutorials in a Tutorials section. The Diátaxis approach allows for variation in navigation structure.
+Although I have never authored content using DITA tools, I have organized content using a DITA approach. What I found was that users preferred feature-based or function-based navigation, so I put explanatory pages and guides within each feature folder but put Tutorials in a Tutorials section.
 
 ### Ordered lists versus headings in a task page
 
-For basic guides, I generally try to follow the structure outlined in GitLab’s [Task topic type guide](https://docs.gitlab.com/ee/development/documentation/topic_types/task.html). However, some guides are more involved, with code snippets, bash output,  and potentially screenshots in each step. In that case, I prefer to create each step as a header. The structure looks similar to this:
+For basic guides, I generally try to follow the structure outlined in GitLab’s [Task topic type guide](https://docs.gitlab.com/ee/development/documentation/topic_types/task.html). However, some guides are more involved, with code snippets, bash output, and potentially screenshots in each step. In that case, I like to create each step as a header. The structure looks similar to this:
 
 ```markdown
 ## Overview plus objectives
@@ -93,9 +93,11 @@ I ask myself the following when analyzing content:
 * Is the content technically correct?
 * Can any of the content be presented in a tabbed component to save page space?
 
-I have additional questions for when I review reference material such as API, CLI, and system config files because as a former software developer, I expect to see very specific content there. Detailed content and style guides help when reviewing content. 
+I have additional questions for when I review reference material such as API, CLI, and system config files because as a former software developer, I expect to see very specific content there.
 
-By creating clear, concise, and consistent content that flows logically, tech writers are able to produce documentation that meets or exceeds reader expectations.
+If the team has content and style guides, my review ensures that the content follows those guides. If the team or open source project doesn't, I volunteer to contribute those guides.
+
+By creating clear, concise, and consistent content that flows logically, tech writers produce documentation that meets or exceeds reader expectations.
 
 ### Site navigation
 
