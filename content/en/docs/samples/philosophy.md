@@ -65,7 +65,7 @@ The user can skip to a desired section by using the page navigation or by clicki
 
 Over the years, I've noticed that "good content" is highly subjective and varies considerably between tech writing teams. Software engineers and tech writers often have different ideas about what constitutes good documentation.
 
-### **The three Cs**
+### The three Cs
 
 Content should be clear, concise, and consistent.
 
@@ -105,7 +105,7 @@ All items being of equal weight, is the left nav in alphabetical order? That mak
 
 ### SEO review
 
-https://developers.google.com/search/docs/beginner/seo-starter-guide for in-depth SEO guidelines and explanations.
+See Google's [Search Engine Optimization (SEO) Starter Guide](https://developers.google.com/search/docs/beginner/seo-starter-guide) for in-depth SEO guidelines and explanations.
 
 #### Page file names
 
