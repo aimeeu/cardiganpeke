@@ -21,7 +21,7 @@ Original public repo: https://github.com/armory/docs/tree/master/content/en/plug
 
 Original public site: https://docs.armory.io/plugins/scale-agent/tasks/dynamic-accounts/manage-accounts/
 
-{{< figure src="scale-agent-org.png" height="80%" width="80%" >}}
+{{< figure src="scale-agent-org.png"  >}}
 
 ## Feature-based approach
 
@@ -34,6 +34,6 @@ I had originally used the Concepts and Guides sections approach with the Armory 
 
 Original public repo: https://www.github.com/armory/docs-cdaas/
 
-{{< figure src="cdaasLandingPage1.jpg" height="80%" width="80%" >}}
+{{< figure src="cdaasLandingPage1.jpg" >}}
 
-{{< figure src="cdaasLandingPage2.jpg" height="80%" width="80%" >}}
+{{< figure src="cdaasLandingPage2.jpg"  >}}

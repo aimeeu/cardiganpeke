@@ -31,13 +31,13 @@ I used Snagit’s scrolling feature to capture the screenshots. The main body co
 
 >I created this guide without a demo, first draft, or notes from the engineers.
 
-{{< figure src="cdsh-operator-quickstart.png" width="80%" height="80%" >}}
+{{< figure src="cdsh-operator-quickstart.png" >}}
 
 ### Install from the AWS Marketplace
 
 >I created this guide with notes from a sales engineer.
 
-{{< figure src="install-from-aws-marketplace.png" width="80%" height="80%" >}}
+{{< figure src="install-from-aws-marketplace.png"  >}}
 
 ## Spinnaker plugins
 
@@ -49,11 +49,11 @@ This example shows how to install the Scale Agent in Spinnaker using the Spinnak
 
 #### Scale Agent installation
 
-{{< figure src="scale-agent-spinnaker.png" width="80%" height="80%" >}}
+{{< figure src="scale-agent-spinnaker.png"  >}}
 
 #### Scale Agent configuration
 
-{{< figure src="configure-scale-agent.png" width="80%" height="80%" >}}
+{{< figure src="configure-scale-agent.png" >}}
 
 ### GitHub Integration plugin
 
@@ -61,7 +61,7 @@ This example shows how to install the GitHub Integration plugin in Spinnaker usi
 
 >I created this using notes from an engineer.
 
-{{< figure src="github-int-plugin-install-halyard.png" width="80%" height="80%" >}}
+{{< figure src="github-int-plugin-install-halyard.png"  >}}
 
 ## Install Armory CDSH in AWS EC2 using K3s
 
@@ -71,4 +71,4 @@ This page became outdated and is no longer in production.
 
 Since the Armory docs team didn't have the resources to keep track of changes to third party products, I should not have included instructions and screenshots for how to create an S3 bucket or IAM role. Instead, I should have stated what the user needs and then linked to relevant AWS docs.
 
-{{< figure src="operator-k3s-ec2.png" width="80%" height="80%" >}}
+{{< figure src="operator-k3s-ec2.png"  >}}

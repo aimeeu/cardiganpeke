@@ -27,7 +27,7 @@ When creating content for Armory, we followed these style guides:
 1. [Google developer documentation style guide](https://developers.google.com/style)
 1. [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
 
-{{< figure src="style-guide.png" width="80%" height="80%" >}}
+{{< figure src="style-guide.png" >}}
 
 ## Content guide
 
@@ -39,16 +39,16 @@ I divided content into these areas:
 1. Reference
 1. Troubleshooting
 
-{{< figure src="content-guide.png" width="80%" height="80%" >}}
+{{< figure src="content-guide.png" >}}
 
 ## Reviewer guidelines
 
-{{< figure src="reviewer-guide.png" width="80%" height="80%" >}}
+{{< figure src="reviewer-guide.png" >}}
 
 ## Approver guidelines
 
-{{< figure src="approver-guide.png" width="80%" height="80%" >}}
+{{< figure src="approver-guide.png" >}}
 
 ## How to contribute content
 
-{{< figure src="local-clone.png" width="80%" height="80%" >}}
+{{< figure src="local-clone.png" >}}
