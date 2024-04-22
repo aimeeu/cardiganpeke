@@ -41,7 +41,7 @@ Although I have never authored content using DITA tools, I have organized conten
 
 ### Ordered lists versus headings in a task page
 
-For basic guides, I generally try to follow the structure outlined in GitLab’s [Task topic type guide](https://docs.gitlab.com/ee/development/documentation/topic_types/task.html). However, some guides are more involved, with code snippets, bash output,  and potentially screenshots in each step. In that case, I prefer to create each step as a header.  The structure looks similar to this:
+For basic guides, I generally try to follow the structure outlined in GitLab’s [Task topic type guide](https://docs.gitlab.com/ee/development/documentation/topic_types/task.html). However, some guides are more involved, with code snippets, bash output,  and potentially screenshots in each step. In that case, I prefer to create each step as a header. The structure looks similar to this:
 
 ```markdown
 ## Overview plus objectives
@@ -63,7 +63,7 @@ The user can skip to a desired section by using the page navigation or by clicki
 
 ## Content review philosophy
 
-“What is good content” is highly subjective varies considerably between tech writing teams. Software engineers and tech writers often have  different ideas about what constitutes good documentation. 
+Over the years, I've noticed that "good content" is highly subjective and varies considerably between tech writing teams. Software engineers and tech writers often have different ideas about what constitutes good documentation.
 
 ### **The three Cs**
 
@@ -72,7 +72,7 @@ Content should be clear, concise, and consistent.
 I ask myself the following when analyzing content:
 
 * Does the content meet the stated goal of the page? Does every section support the page’s purpose?
-* Does the page title reflect the content type? This helps readers scan search results, whether in-app or from an internet search provider. 
+* Does the page title reflect the content type? This helps readers scan search results, whether in-app or from an internet search provider.
   * Tasks start with an active verb.
   * Tutorials start with an active verb and have “tutorial” in the title (provided that’s in the style or content guide). Again, this format is good for scanning search results.
   * Concept and reference start with a noun.
@@ -100,6 +100,50 @@ By creating clear, concise, and consistent content that flows logically, tech wr
 ### Site navigation
 
 All items being of equal weight, is the left nav in alphabetical order? That makes navigation easier to scan.
+
+### SEO review
+
+https://developers.google.com/search/docs/beginner/seo-starter-guide for in-depth SEO guidelines and explanations.
+
+#### Page file names
+
+Use [simple, human-readable, and logical URL paths for your pages](https://developers.google.com/search/docs/advanced/guidelines/url-structure) and provide clear and direct internal links within the site.
+
+#### Page titles
+
+Google analyzes the content of the page, catalogs images and video files embedded on the page, and otherwise tries to understand the page.
+
+When listing search results, Google truncates longer page titles but still finds keywords in the entire title when building the index.
+
+**Create short, meaningful titles that accurately reflect the page content.** Include relevant keywords. Do not sacrifice accuracy (or keyword) for brevity. Armory's priority is accurate/descriptive page titles, but do your best to keep them a manageable length.
+
+#### Guidelines
+
+To improve search ranking placement, keep these in mind when editing and approving content:
+
+* Title should be descriptive and contain keywords if possible. Use natural language and ensure that the content of the page is clearly expressed.
+  * Titles should be no longer than _60 characters_  _maximum_. 55 is preferred.
+  * Go from unbranded to branded terms as appropriate.
+  * All titles should be unique.
+  * The title should not be the same as a heading (H2) on the page.
+* Front matter `description`  turns into a `meta` tag when compiled.
+  * Description should be no longer than 160 characters and also contain keywords because search engines look for.
+  * Make sure that the language is natural and clearly describes what the user finds on the page.
+  * Do not make it a duplicate of the title.
+  * Make it enticing and clear. For example, what you learn, what problems it solves,  etc.
+* H2 and H3 tags should be contain keywords if it makes sense. Heading tags send valuable ranking signals to Google and provide context to bots.
+  * "Overview of pipelines" rather than "Overview".
+  * "Prerequisites for deploying to …" rather than "Prerequisites"  (Yes, it may be repetitive but SEO rankings are voodoo).
+* Short intro sections directly below heading (1-2 sentences is enough) that include the keyword target.
+* Link to other relevant content using keyword-focused anchor text.
+  * Anchor text sends ranking signals to Google. When you use keywords in the anchor text, that reinforces the keyword targeting of the linked page. Plus, it can be clearer for users and shows them exactly what the link they're clicking focuses on.
+  * In general, internal links between pages are powerful for SEO. When you link from a high-ranking, high-traffic page to another page, it passes some of that page's power on to other areas of the site.
+* Page URLs
+  * Ensure that the URL is human-readable and clearly conveys the page content. If/as applicable include the priority keyword in the url.
+  * Use only lower case and hyphens.
+* Images
+  * Ensure that all images have alt tags that are clear descriptions of what the images express. Include keyword(s) if/as appropriate.
+  * Ensure that the image name is human readable and conveys what the image is
 
 ### Best practices
 
