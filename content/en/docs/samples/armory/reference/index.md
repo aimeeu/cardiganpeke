@@ -24,7 +24,7 @@ Armory Continuous Deployment-as-a-Service didn't have an exposed REST API, but i
 
 The Armory Continuous Deployment-as-a-Service reference material detailed the sections of the deployment config file.
 
-{{< figure src="ref-artifacts-provider.png" width="80%" height="80%" >}}
+{{< figure src="ref-artifacts-provider.png"  >}}
 
 ## REST API
 
@@ -38,4 +38,4 @@ Original public repo: https://github.com/armory/docs/tree/master/content/en/plug
 
 Original public site: https://docs.armory.io/plugins/scale-agent/tasks/dynamic-accounts/manage-accounts/
 
-{{< figure src="scale-agent-rest-api.png" width="80%" height="80%" >}}
+{{< figure src="scale-agent-rest-api.png"  >}}

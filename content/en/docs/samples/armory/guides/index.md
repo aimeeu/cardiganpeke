@@ -30,10 +30,10 @@ This guide isn't strictly a guide. It's structured more like reference material 
 
 >For this guide, I learned how to configure and deploy Istio to my Kubernetes cluster. Then I configured and deployed Istio's demo app. I did not receive a demo, first draft, or notes from the engineers.
 
-{{< figure src="configure-istio.png"  width="80%" height="80%" >}}
+{{< figure src="configure-istio.png" >}}
 
 ## Use Armory's GitHub Action to deploy your app using CD-as-a-Service
 
 >I did not receive a demo, first draft, or notes from the engineers. The PM talked to me about this feature.
 
-{{< figure src="use-github-action.png"  width="80%" height="80%" >}}
+{{< figure src="use-github-action.png" >}}

@@ -16,10 +16,10 @@ description: >
 
 ## AWS Lambda deployment overview
 
-{{< figure src="deployment-lambda-overview.png" width="80%" height="80%" >}}
+{{< figure src="deployment-lambda-overview.png" >}}
 
 ## Identity and access management overview
 
 This includes UML diagrams.
 
-{{< figure src="iam-overview.png" width="80%" height="80%" >}}
+{{< figure src="iam-overview.png" >}}

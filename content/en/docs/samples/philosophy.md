@@ -1,5 +1,5 @@
 ---
-title: Authoring philosophy
+title: Tech writing philosophy
 weight: 1
 description: >
   This page contains my views on authoring technical content.
@@ -22,7 +22,7 @@ I strongly believe in separating long, explanatory content from guides and tutor
 
 **However, I do follow the content and style guides of the company I'm working for or the open source community to which I'm contributing.**
 
-## Diátaxis vs DITA et al
+### Content types
 
 DITA (Darwin Information Typing Architecture) is a [method for organizing content](https://technicalwriterhq.com/writing/technical-writing/darwin-information-typing-architecture-dita/) as well as a [method for authoring content](https://www.oasis-open.org/committees/dita/faq.php).
 
@@ -38,3 +38,87 @@ Here are a few presentations on Diátaxis:
 * [What nobody tells you about documentation](https://www.youtube.com/watch?v=t4vKPhjcMZg)  (2017)
 
 Although I have never authored content using DITA tools, I have organized content using a DITA approach. What I found was that users preferred a feature-based navigation, so I put explanatory pages and guides within each feature folder but put Tutorials in a Tutorials section. The Diátaxis approach allows for variation in navigation structure.
+
+### Ordered lists versus headings in a task page
+
+For basic guides, I generally try to follow the structure outlined in GitLab’s [Task topic type guide](https://docs.gitlab.com/ee/development/documentation/topic_types/task.html). However, some guides are more involved, with code snippets, bash output,  and potentially screenshots in each step. In that case, I prefer to create each step as a header.  The structure looks similar to this:
+
+```markdown
+## Overview plus objectives
+   The objectives are in a list with each bullet point a link to the relevant heading.
+   Do the following:
+   1. [Do this](#do-this)
+   2. [Do that](#do-that)
+   3. [Do other things](#do-other-things)
+## Prerequisites
+	 unordered list
+## Do this
+	 step, config snippet, bash output
+## Do that
+## Do other things
+## Related content   
+```
+
+The user can skip to a desired section by using the page navigation or by clicking on the objective in the overview section.
+
+## Content review philosophy
+
+“What is good content” is highly subjective varies considerably between tech writing teams. Software engineers and tech writers often have  different ideas about what constitutes good documentation. 
+
+### **The three Cs**
+
+Content should be clear, concise, and consistent.
+
+I ask myself the following when analyzing content:
+
+* Does the content meet the stated goal of the page? Does every section support the page’s purpose?
+* Does the page title reflect the content type? This helps readers scan search results, whether in-app or from an internet search provider. 
+  * Tasks start with an active verb.
+  * Tutorials start with an active verb and have “tutorial” in the title (provided that’s in the style or content guide). Again, this format is good for scanning search results.
+  * Concept and reference start with a noun.
+* Do the page headings follow a consistent format? 
+  * For a task in which each step is a heading, the heading starts with a verb.
+  * For a concept, the heading is a noun or noun phrase.
+* Is the writing concise?
+  * Does it use as few words as possible to convey meaning, so readers can easily scan the content? 
+  * Is the content organized in a logical flow?
+  * Are there long sentences which could be shorter or made less complex?
+  * Is there long content that would be better presented as a bullet list or table?
+  * Is there content that can be replaced with a diagram? (UML or other) A picture **is** worth a thousand words. 
+* If there is a list, do the list elements have parallel syntax?
+* If there are tables or lists of command line switches or configuration fields, in which all items have equal weight, are the items presented in alphabetical order? (easier to scan)
+* Do global variables and terms have the same name as on other pages? 
+* Is any content not 100% clear? (For example, is something optional vs required)
+* If task or tutorial, do the steps work?
+* Is the content technically correct?
+* Can any of the content be presented in a tabbed component to save page space?
+
+I have additional questions for when I review reference material such as API, CLI, and system config files because as a former software developer, I expect to see very specific content there. Detailed content and style guides help when reviewing content. 
+
+By creating clear, concise, and consistent content that flows logically, tech writers are able to produce documentation that meets or exceeds reader expectations.
+
+### Site navigation
+
+All items being of equal weight, is the left nav in alphabetical order? That makes navigation easier to scan.
+
+### Best practices
+
+**Reviewers**
+
+* Be polite, helpful, and considerate of others.
+* Comment on positive aspects of a PR, as well as changes.
+* Be empathetic and mindful of how your changes or review may be received.
+* Make sure your review comments are **con**structive not **de**structive.
+* Ask clarifying questions if something in a PR is unclear.
+* Assume positive intent.
+* If you are an experienced contributor, consider pairing with new contributors whose work requires extensive changes.
+
+**Approvers**
+
+* Ask your fellow contributors how they work best and what communication style they prefer.
+* If you are asking for a lot of changes on a review, make sure at least one comment is a positive one.
+* Do not turn a review into a sparring match.
+* Avoid changing content other than typos or broken links.
+* Ask clarifying questions in a way that doesn't put the author on the defensive
+* If you think there's a better way to present content, mention it in your review and then ask what the author thinks.
+* If you notice style guide violations, politely point out the issue, or use the GitHub **Insert a suggestion** [functionality](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request#adding-line-comments-to-a-pull-request) to suggest a change, and then link to the relevant section in the style guide to explain why you are suggesting the change. The most common style guide violation is using passive voice instead of active voice.
