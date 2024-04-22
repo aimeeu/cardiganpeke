@@ -123,29 +123,27 @@ When listing search results, Google truncates longer page titles but still finds
 
 To improve search ranking placement, keep these in mind when editing and approving content:
 
-* Title should be descriptive and contain keywords if possible. Use natural language and ensure that the content of the page is clearly expressed.
+* Title should be descriptive and contain keywords if possible. Use natural language to ensure that the content of the page is clearly expressed.
   * Titles should be no longer than _60 characters_  _maximum_. 55 is preferred.
   * Go from unbranded to branded terms as appropriate.
   * All titles should be unique.
   * The title should not be the same as a heading (H2) on the page.
 * Front matter `description`  turns into a `meta` tag when compiled.
-  * Description should be no longer than 160 characters and also contain keywords because search engines look for.
+  * The description should be no longer than 160 characters and also contain keywords that search engines look for.
   * Make sure that the language is natural and clearly describes what the user finds on the page.
   * Do not make it a duplicate of the title.
-  * Make it enticing and clear. For example, what you learn, what problems it solves,  etc.
+  * Make it enticing and clear. For example, what you learn, what problems it solves, etc.
 * H2 and H3 tags should be contain keywords if it makes sense. Heading tags send valuable ranking signals to Google and provide context to bots.
-  * "Overview of pipelines" rather than "Overview".
-  * "Prerequisites for deploying to …" rather than "Prerequisites"  (Yes, it may be repetitive but SEO rankings are voodoo).
-* Short intro sections directly below heading (1-2 sentences is enough) that include the keyword target.
+* Include a short intro directly below heading that include the keyword target. One to two sentences is enough.
 * Link to other relevant content using keyword-focused anchor text.
-  * Anchor text sends ranking signals to Google. When you use keywords in the anchor text, that reinforces the keyword targeting of the linked page. Plus, it can be clearer for users and shows them exactly what the link they're clicking focuses on.
+  * Anchor text sends ranking signals to Google. Using keywords in the anchor text reinforces the keyword targeting of the linked page. Plus, it can be clearer for users and shows them exactly what the link they're clicking focuses on.
   * In general, internal links between pages are powerful for SEO. When you link from a high-ranking, high-traffic page to another page, it passes some of that page's power on to other areas of the site.
 * Page URLs
   * Ensure that the URL is human-readable and clearly conveys the page content. If/as applicable include the priority keyword in the url.
   * Use only lower case and hyphens.
 * Images
   * Ensure that all images have alt tags that are clear descriptions of what the images express. Include keyword(s) if/as appropriate.
-  * Ensure that the image name is human readable and conveys what the image is
+  * Ensure that the image name is human readable and conveys what the image is.
 
 ### Best practices
 
