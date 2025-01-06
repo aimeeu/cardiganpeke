@@ -10,3 +10,15 @@ GO_VERSION = "1.21.4"
 
 [context.production]
 command = "npm run build:production"
+
+# https://github.com/netlify-labs/netlify-plugin-sitemap
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  buildDir = "public"
+
+  # append missing trailing slash to prettyURL
+  trailingSlash = true
+  changeFreq = "daily"
+  priority = 0.5
