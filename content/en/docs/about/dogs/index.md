@@ -54,15 +54,15 @@ Percy is my young Cardigan Welsh Corgi. He is learning Barn Hunt, scent work, an
 {{< card header="Northern Highland American Legion State Forest" title="Percy loves to go in the canoe." subtitle="2023" >}}
 {{< figure src="percy-canoe.png" height="100%" width="100%" >}}
 {{< /card >}}
+{{< /cardpane >}}
 
 ## George
 
 **Registered Name**: Primah's Dragonslayer
 
-George is a Tibetan Spaniel, a rare and ancient breed that is not a spaniel. Tibetan monks bred Tibbies to be companions and watch dogs.
-
-
-{{< figure src="george.png" height="50%" width="50%" >}}
+George is a Tibetan Spaniel, a rare and ancient breed that is not a spaniel.
+Tibetan monks bred Tibbies to be companions and watch dogs. George is learning
+nose work and Barn Hunt.
 
 {{< cardpane >}}
 {{< card header="Menomonee Park" title="George posing in the snow." subtitle="2024">}}
@@ -71,6 +71,7 @@ George is a Tibetan Spaniel, a rare and ancient breed that is not a spaniel. Tib
 {{< card header="Oh Rats Barn Hunt Club" title="George earns his RATI title and 2 legs towards his Novice title." subtitle="2025" >}}
 {{< figure src="george-rati.png" height="100%" width="100%" >}}
 {{< /card >}}
+{{< /cardpane >}}
 
 ## Past dogs
 
