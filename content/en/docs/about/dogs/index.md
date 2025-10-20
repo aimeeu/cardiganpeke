@@ -36,7 +36,7 @@ This is Bond, my older Cardigan Welsh Corgi. He has titles in:
 {{< card header="Cardigan Welsh Corgi Club of America National Specialty" title="High in Trial Ducks, High Scoring Veteran" subtitle="2023" >}}
 {{< figure src="bond-cwcca-2023.png" height="100%" width="100%" >}}
 {{< /card >}}
-{{< card header="Oh Rats Barn Hunt Club" title="Bond earns his RATM title with some High in Class awards." subtitle="2025" >}}
+{{< card header="Oh Rats Barn Hunt Club" title="Bond earns his RATM title with two High in Class awards." subtitle="2025" >}}
 {{< figure src="bond-ratm.png" height="100%" width="100%" >}}
 {{< /card >}}
 {{< /cardpane >}}
@@ -47,7 +47,13 @@ This is Bond, my older Cardigan Welsh Corgi. He has titles in:
 
 Percy is my young Cardigan Welsh Corgi. He is learning Barn Hunt, scent work, and herding.
 
-{{< figure src="percy-canoe.png" height="50%" width="50%" >}}
+{{< cardpane >}}
+{{< card header="Oh Rats Barn Hunt Club" title="Percy earns his RATS title." subtitle="2025">}}
+{{< figure src="percy-rats.png" height="100%" width="100%" >}}
+{{< /card >}}
+{{< card header="Northern Highland American Legion State Forest" title="Percy loves to go in the canoe." subtitle="2023" >}}
+{{< figure src="percy-canoe.png" height="100%" width="100%" >}}
+{{< /card >}}
 
 ## George
 
@@ -57,6 +63,14 @@ George is a Tibetan Spaniel, a rare and ancient breed that is not a spaniel. Tib
 
 
 {{< figure src="george.png" height="50%" width="50%" >}}
+
+{{< cardpane >}}
+{{< card header="Menomonee Park" title="George posing in the snow." subtitle="2024">}}
+{{< figure src="george-stand-snow.png" height="100%" width="100%" >}}
+{{< /card >}}
+{{< card header="Oh Rats Barn Hunt Club" title="George earns his RATI title and 2 legs towards his Novice title." subtitle="2025" >}}
+{{< figure src="george-rati.png" height="100%" width="100%" >}}
+{{< /card >}}
 
 ## Past dogs
 
