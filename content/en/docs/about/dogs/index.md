@@ -34,12 +34,9 @@ This is Bond, my older Cardigan Welsh Corgi. He has titles in:
 {{< card header="Cardigan Welsh Corgi Club of America National Specialty" title="High in Trial Ducks, High Scoring Veteran" subtitle="2023" >}}
 {{< figure src="bond-cwcca-2023.png" height="100%" width="100%" >}}
 {{< /card >}}
-{{< card header="Oh Rats Barn Hunt Club" title="Bond earns his RATM title with
-some High in Class awards." subtitle="2025" >}}
+{{< card header="Oh Rats Barn Hunt Club" title="Bond earns his RATM title with some High in Class awards." subtitle="2025" >}}
 {{< figure src="bond-ratm.png" height="100%" width="100%" >}}
 {{< /card >}}
-
-
 {{< /cardpane >}}
 
 ## Percy
