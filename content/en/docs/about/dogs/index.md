@@ -80,6 +80,6 @@ Muhlin Here's the Deal | Dealio | Pekingese | No titles, but Dealio had a fan cl
 PACH Aramoras Great Expectations CD RA OA NAJ MXP3 MXPB MJP3 MJPB PAX| Pip | Cardigan Welsh Corgi | AKC Agility Champion<br>AKC Obedience and Rally |
 Lon-Du Bloody Brilliant RN | Bishop | Pekingese | AKC Rally Novice<br>Teacup Agility |
 Maddy | Maddy | mix | NADAC and Teacup Agility |
-Charles RN | Charles | Tibetan Spaniel or a Peke mix (no DNA testing available when Charles was alive) | AKC Rally Novice |
+Charles RN | Charles | Tibetan Spaniel | AKC Rally Novice |
 PQ | N/A | mix | No titles but I did train her for Obedience |
 Barclay | N/A | mix | No titles but I did train him for Obedience |
