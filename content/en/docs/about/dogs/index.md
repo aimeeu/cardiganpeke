@@ -31,6 +31,8 @@ This is Bond, my older Cardigan Welsh Corgi. He has titles in:
 {{< card header="Diane Sobel-Meyer Herding Clinic" title="Bond learns how to work dairy cattle in a pen." subtitle="2025" >}}
 {{< figure src="bond-cattle-pen.png" height="100%" width="100%" >}}
 {{< /card >}}
+{{< /cardpane >}}
+{{< cardpane >}}
 {{< card header="Cardigan Welsh Corgi Club of America National Specialty" title="High in Trial Ducks, High Scoring Veteran" subtitle="2023" >}}
 {{< figure src="bond-cwcca-2023.png" height="100%" width="100%" >}}
 {{< /card >}}
