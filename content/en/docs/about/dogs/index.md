@@ -43,7 +43,7 @@ This is Bond, my older Cardigan Welsh Corgi. He has titles in:
 
 ## Percy
 
-**Registered Name**: Molly's DBLM Scarlet Pimpernel RATS
+**Registered Name**: Molly's DBLM Scarlet Pimpernel BCAT RATS
 
 Percy is my young Cardigan Welsh Corgi. He is learning Barn Hunt, scent work, and herding.
 
@@ -58,11 +58,11 @@ Percy is my young Cardigan Welsh Corgi. He is learning Barn Hunt, scent work, an
 
 ## George
 
-**Registered Name**: Primah's Dragonslayer
+**Registered Name**: Primah's Dragonslayer RATN
 
 George is a Tibetan Spaniel, a rare and ancient breed that is not a spaniel.
 Tibetan monks bred Tibbies to be companions and watch dogs. George is learning
-nose work and Barn Hunt.
+scent work and Barn Hunt.
 
 {{< cardpane >}}
 {{< card header="Menomonee Park" title="George posing in the snow." subtitle="2024">}}
