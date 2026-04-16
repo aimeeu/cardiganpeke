@@ -49,7 +49,7 @@ This is Bond, my older Cardigan Welsh Corgi. He has titles in:
 
 Percy is my young Cardigan Welsh Corgi. He competes in Barn Hunt and is learning scent work and herding.
 
-* AKC FastCat: BCAT
+* AKC Fast CAT: BCAT
 * Barn Hunt: RATM
 
 {{< cardpane >}}
