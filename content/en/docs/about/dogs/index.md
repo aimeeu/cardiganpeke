@@ -12,17 +12,19 @@ My dogs are also my companions. I take them hiking, canoeing, and camping.
 
 ## Bond
 
-**Registered Name**: Aramora's Shaken, Not Stirred  STDsd OTDs HSAsd RN OA OAJ
-OF BCAT SWN SEA IND SSB RATM
+**Registered Name**: Aramora's Shaken, Not Stirred  STDsd OTDs HSAsd RI OA OAJ OF BCAT SWE SEM NW1 IND SSB RATCH CZ8B
 
 This is Bond, my older Cardigan Welsh Corgi. He has titles in:
 
-* ASCA and AKC Herding
-* AKC Scent Work and NACSW Nosework
-* AKC Rally
-* AKC Fast CAT
-* AKC and UKI Agility
-* Barn Hunt
+* ASCA Herding: STDsd, OTDs
+* AKC Herding: HSAsd
+* AKC Rally: RI
+* AKC Agility: OA OAJ OF
+* AKC Fast CAT: BCAT
+* AKC Scent Work: SWE SEM
+* NACSW Nosework: NW1
+* UKI Agility: IND SSB
+* Barn Hunt: RATCH CZ8B
 
 {{< cardpane >}}
 {{< card header="Australian Shepherd Club of America (ASCA)" title="High in Trial - Other Breed" subtitle="2022">}}
@@ -43,9 +45,12 @@ This is Bond, my older Cardigan Welsh Corgi. He has titles in:
 
 ## Percy
 
-**Registered Name**: Molly's DBLM Scarlet Pimpernel BCAT RATS
+**Registered Name**: Molly's DBLM Scarlet Pimpernel BCAT RATM
 
-Percy is my young Cardigan Welsh Corgi. He is learning Barn Hunt, scent work, and herding.
+Percy is my young Cardigan Welsh Corgi. He competes in Barn Hunt and is learning scent work and herding.
+
+* AKC FastCat: BCAT
+* Barn Hunt: RATM
 
 {{< cardpane >}}
 {{< card header="Oh Rats Barn Hunt Club" title="Percy earns his RATS title." subtitle="2025">}}
@@ -58,11 +63,14 @@ Percy is my young Cardigan Welsh Corgi. He is learning Barn Hunt, scent work, an
 
 ## George
 
-**Registered Name**: Primah's Dragonslayer RATN
+**Registered Name**: Primah's Dragonslayer RATN CCSS-L1
 
 George is a Tibetan Spaniel, a rare and ancient breed that is not a spaniel.
-Tibetan monks bred Tibbies to be companions and watch dogs. George is learning
+Tibetan monks bred Tibbies to be companions and watch dogs. George competes in 
 scent work and Barn Hunt.
+
+* CPE Canine Scent Sport: CCSS-L1
+* Barn Hunt: RATN
 
 {{< cardpane >}}
 {{< card header="Menomonee Park" title="George posing in the snow." subtitle="2024">}}
